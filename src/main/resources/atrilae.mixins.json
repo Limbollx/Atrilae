@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.limboll.atrilae.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+      "AtrilaeMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
